@@ -1,7 +1,7 @@
 import requests
 
 # Your API key (replace 'YOUR_API_KEY' with your actual API key)
-api_key = '00d83c29be4cae3841c332b7fa131d23'
+api_key = ''
 city = 'Belfast'
 units = 'metric'
 BASE_URL = 'http://127.0.0.1:8000'
